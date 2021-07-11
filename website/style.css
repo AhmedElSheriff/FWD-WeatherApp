@@ -109,3 +109,7 @@ button:focus {
     font-family: 'Oswald', sans-serif;
 
 } 
+
+#zip_error {
+    color: white;
+}
