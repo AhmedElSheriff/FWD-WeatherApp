@@ -1,6 +1,6 @@
 
 /* Global Variables */
-const API_KEY = "22d5faca3063061017d034c09875208a";
+const API_KEY = "22d5faca3063061017d034c09875208a&units=metric";
 const BASE_URL = "https://api.openweathermap.org/data/2.5/weather?zip=";
 const zipCodeInput = document.getElementById('zip');
 const feelingInput = document.getElementById('feelings');
